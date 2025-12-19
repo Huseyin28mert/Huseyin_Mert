@@ -9,4 +9,4 @@
 ###  Technical Skills
 - Programming: Python, C++, C#
 - Software: Ubuntu,  Linux
-- Tools: VS Code, ROS (introductory)
+- Tools: VS Code, ROS2 
